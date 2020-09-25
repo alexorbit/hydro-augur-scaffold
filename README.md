@@ -1,4 +1,4 @@
-![image](assets/hydro_black_wider.png)
+![image](assets/hydro_black_wider.png) .  
 
 ***
 
